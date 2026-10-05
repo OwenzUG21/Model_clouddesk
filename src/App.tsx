@@ -13,13 +13,10 @@ export default function App() {
             <div>
               <span className="badge">New: WhatsApp Business channel</span>
               <h1>
-                Support software for teams
+                Supghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
                 <span className="grad"> that are still small.</span>
               </h1>
-              <p className="lede">
-                CloudDesk turns a shared inbox into a real helpdesk — routing, SLAs and
-                reporting — without the six-week rollout or the enterprise price tag.
-              </p>
+              
               <div className="hero-actions">
                 <a className="btn btn-primary" href="#pricing">
                   Start free trial
